@@ -1,0 +1,28 @@
+ /* Telas Pequenas  */
+@media (max-width: 576px) {
+  .textopequeno {
+    font-size: 12px;
+  } 
+  h2 { 
+    font-size: 16px;
+  }  
+
+
+} 
+ 
+/* Telas medias */
+@media (min-width: 768px) {
+  .textomedio {
+    font-size: 15px; /* para tablets e telas médias */
+  } 
+    h2 { 
+    font-size: 19px;
+  } 
+
+  
+} 
+ 
+/* telas grandes */ 
+@media screen and (min-width: 1200px) { 
+
+}
